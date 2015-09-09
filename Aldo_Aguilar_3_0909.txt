@@ -1,0 +1,1 @@
+Yesterday we set up a github folder on our user, this folder contained our name, username and our email as well. After we set up this folder we linked it with a repository on the browser version of git hub. So now we can go onto the git hub folder on our user from the git hub website. 
