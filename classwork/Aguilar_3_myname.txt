@@ -1,0 +1,10 @@
+Begin:
+bring in user input libary
+
+create method user_name
+	Ask user for their name
+	wait for input from user
+	var. x = input from user
+
+call method user_name
+print x
