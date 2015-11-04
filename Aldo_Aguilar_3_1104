@@ -1,0 +1,4 @@
+A method is like a smaller program within a program to perform a task.
+In my guessing game I used a method to ask the user for their name and greet them.
+A while loop is a loop that will run as long as the statement is true.
+A while cna be used in a guessing game with a boolean that remains true as long as a counter(for guesses) remains true.
