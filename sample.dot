@@ -1,0 +1,19 @@
+digraph simple_map{
+A [label="You wake up, and are about to get dressed.\nWhat do you wear?"]  //node B
+B [label="Chubbies"] //node E
+B1 [label="Cargo Shorts"]
+B2 [label="Sorry, you have lost. Cargo shorts are always wrong."]
+C [label="You slap on American themed Shorts and walk to your car. /n You see a hobo in need of help do you help?  "]
+D [label="Of course You walk over to help him."]
+D1 [label="No You get into your car."]
+E [label="You walk over to the hobo and give him phat stacks./n He then pulls a gun out. /n Do you fight or run?"]
+E1 [label= " as you drive away the hobo pull a gun out./n do you hit him with your car?"]
+
+A ->B
+A ->B1
+B1 ->B2
+B ->C
+C -> D
+C -> D1
+
+}

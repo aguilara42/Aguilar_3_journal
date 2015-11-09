@@ -1,0 +1,13 @@
+digraph simple_map{
+A [label="You wake up, and are about to get dressed. What do you wear?"]  //node B
+B [label="Chubbies"] //node E
+C [label="Cargo Shorts"]
+D [label="drink potion"]
+
+A ->B [label="commands", fontcolor=darkgreen] 
+B -> C
+B -> D
+D -> E
+E -> F
+
+}
