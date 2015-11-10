@@ -19,7 +19,7 @@ H2 [label="You plead for your life, Cargo shorts show no mercy on you."]
 I [label="He begins to melt and screams with mercy \n Do you spare him or finsih the melting?"]
 J [label="You cannot spare the ones who wear cargo shorts."]
 J1 [label="You climb up and remove the shorts from his burnt arm. \n Swiftly he strikes you into the ground \n Never trust cargo shorts."]
-K [label= "An army of angles wearing chubbies suddenly swoop down from the heavens. \n"] 
+K [label= "An army of angles wearing chubbies suddenly swoop down from the heavens. \n End of chapter 1. \n Chapter The Chubbies Inferno"] 
 
 
 A ->B

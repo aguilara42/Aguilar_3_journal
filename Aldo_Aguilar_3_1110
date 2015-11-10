@@ -1,0 +1,1 @@
+in my game I will use diffrent variables and methods to track choices and challenges of a player. The HP and items of my player will be help within static variable. Hp a simple counter and iteams can be booleans. 
