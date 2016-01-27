@@ -1,0 +1,1 @@
+In my game using the slick 2d library I was able to put images into my game, by locating them through a res folder. The code for this was first to create a new image in the object's class, then name it. Make it a new image and then send a path for the image to be found. Ex	Image storeBox = new Image("res/Box.png");
