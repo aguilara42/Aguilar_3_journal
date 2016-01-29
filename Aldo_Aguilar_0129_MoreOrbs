@@ -1,0 +1,1 @@
+A class constructor Is like the instructions for a class. In the class construtor for orbs we should use new to create new orbs. The orbs should have a method for the specifc values we want the orbs to have. 
