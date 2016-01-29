@@ -1,1 +1,1 @@
-A class constructor Is like the instructions for a class. In the class construtor for orbs we should use new to create new orbs. The orbs should have a method for the specifc values we want the orbs to have. 
+A class constructor Is like the instructions for a class, it will modifiy or create from a class. An example is using the constructor new will create a new object from the class. In the class construtor for orbs we should use new to create new orbs. The orbs should have a method for the specifc values we want the orbs to have. 
