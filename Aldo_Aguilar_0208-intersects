@@ -1,0 +1,1 @@
+To see if a weapon does damage you must fiest see if it intersects and then make the weapon take damage away from an object.
