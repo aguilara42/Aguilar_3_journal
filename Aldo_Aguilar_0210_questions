@@ -1,0 +1,10 @@
+My questions 
+In my game how would I check to see if the orb hits a wall?
+How do I make the orb stay in place once it hits the wall?
+Can I add an explosion effect to the orb once it hits an object?
+
+Many questions I heard
+A lot of people were having issues adding the lwjgl liberay.
+Once they copied the example they forgot to rename the class.
+Many people were just compeletly lost.
+Some people had issues with the case sensitvity.
