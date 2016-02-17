@@ -1,0 +1,11 @@
+Arrays are used for storing a list of information. 
+The code for an array that will sotre ints is intArray[];
+For a string stringArray[];
+A boolean booleanString[];
+For a double doubleArray[];
+You would change the value of the 0th term in the array.
+To change a string array to "bob" you would assigin bob to that array.
+This code would make a private array names dessert that stores 4 strings
+This code creates a private string array calles postres that gives  vlaues to 3 strings in the array.
+The diffrence is postres is gives values so it is initilized and declared whiles deserts is only declered.
+You would write postres[2] = apple pie; 
