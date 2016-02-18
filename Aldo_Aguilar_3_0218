@@ -1,0 +1,10 @@
+This code is used to update the frame of the player's animation. 
+Memorizing slick syntax wouldn't teach you anything., it would be senseless. You wouldn't be using any knowladge just memorzing coe it is better to logically see the function of slick,
+An array is bassically a list that can store specific data types.
+To make an array you must use square bracets and tell what data type you are using ex. String[] tacos;
+An arraylist is like an array list but can change in specific length, meaning you can add objects.
+ArrayList tacos = new ArrayList;
+I created the array in my netbeans project.
+A few useful arraylist methods in my game is a method that I used to randomly generate enemies, this method added enenmies into the enemy array list.
+The diffrence between an array and an array list is that an array list is resizable.
+To make a health counter we can store health as a varible that is updated each time health is taken or removed.
