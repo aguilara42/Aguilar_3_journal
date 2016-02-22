@@ -1,1 +1,7 @@
 I feel that by Firday I will be prepared for our test. I am curious on some of the other functions in slick that we did not explore during our Slick2D game. 
+To have multiple levels I would use seperate states.
+My enemies are already in my game. 
+Traps will not be too difficult to set up, I can make a fake object that will deal damage.
+Damagae is delt and taken in my game.
+I have a score system in my game, as a simple counter.
+
