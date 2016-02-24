@@ -1,0 +1,11 @@
+public class Rat {
+	public int damage;
+}
+
+
+public Rat Rats; //This would be set in a diffrent class where we would like to make the object Rats from the class Rat.
+The object Rats is declared here and whereever we intilazie values for rat can vary.
+
+int [] ratCorridinates {0, 5, 10, 15, 20, 25};
+
+This array has the corridents for five rats, the x will always be 0( ratCorridinates[0]) Then the y will be positions 1-5.
