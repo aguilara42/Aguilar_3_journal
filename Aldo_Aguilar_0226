@@ -1,0 +1,1 @@
+The code below sets arrays and runs through a for loop that checks the map length is more than or equal to i. It then prints out corrdients. THis is useful for assgining the cooridnets to a specfic object
