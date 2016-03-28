@@ -1,0 +1,12 @@
+A few of the diffrences in C that in c the proccess of naming a method is different, for loops you do not cast an int, and in an array you use * instead of []. We have not yet made any code, we plan to make a real time time display whith adjustable time. A circut must be compeltely closed in order to function. The programs are compiled in c and sent to the arduino directly. 
+This week we did 6 projects in total. Some of the main things that I noticed
+while working with the circut is that the circut must be fully closed. We
+use resistors to close led's into a circut. And the comminicate to the 
+arduino we use wires. One of the first projects was a simple led that changed 
+colors. The circut was simple, wires going to the ground and power to the bread-
+board. Then a led with a resistor to control the flow of electricty and close 
+the circut. 
+
+Using the LED display and buttons we will plan to make a cloclk that has a real
+time display. To adjust the time we will use buttons for the minutes and 
+hour.
