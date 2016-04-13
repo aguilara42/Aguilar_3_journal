@@ -1,0 +1,1 @@
+The biggest problem that I faced yesterday (I left early to give blood) was the program to only send zero to the out box. My thinking was I neded to see if a number was zero and if not return to the inbox but if it was zero go to the outbox. 
