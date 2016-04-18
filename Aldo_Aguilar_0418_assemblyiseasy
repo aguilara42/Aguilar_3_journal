@@ -1,0 +1,22 @@
+We typed elf64 because this is the format for a 64-bit executable. In contrast elf32 is a executable for a 32-bit system. The ld command we use acts as a complier so that we can run our little program. chmod alters the permisson of a specified file, we created the sample.asm and it did not need an intermdient complier. I had to change the "was this easy" to my name and then recomplie it.Assembly is not quick and easy it is a lot more direct to the computer. Low level means that it is coding closer to the hardware of the computer.
+
+
+global _start
+
+        section .text
+_start:
+        ; write(1, message, 13)
+        mov     rax, 1
+        mov     rdi, 1
+        mov     rsi, message
+        mov     rdx, 15
+        syscall
+
+        ; exit(0)
+        mov     eax, 60
+        xor     rdi, rdi
+        syscall
+message:
+        db      "Aldo", 10
+
+
