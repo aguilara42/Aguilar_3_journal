@@ -1,0 +1,17 @@
+global _start
+	section.text
+_start:
+	; write(1, message, 13)
+	mov	rax, 1		
+	mov	rdi, 1
+	mov	rsi, message
+
+	mov
+	syscall
+
+	; exit(0)
+	mov
+	xor
+	syscall
+message:
+	db
