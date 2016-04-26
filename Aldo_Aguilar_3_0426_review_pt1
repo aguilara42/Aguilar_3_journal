@@ -1,0 +1,27 @@
+Program in java that cubes a number.
+
+public static int cubic(int x){
+	int a = x*x*x;
+	return a;
+}
+
+Program in c to cube a number.
+
+int cube(int x){
+	int a = x*x*x;
+	return a;
+}
+
+Creating the student calss.
+
+public calss Student{
+	int numOfStudents;
+}
+
+Calling student
+public class school{
+	public static void main(String[] args){
+		student = new Student();
+	}
+If we were to continue with arduino then I would want to finish the high frequency producer.
+	
