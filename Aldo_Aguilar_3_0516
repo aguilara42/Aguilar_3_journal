@@ -1,0 +1,1 @@
+Up casting is assging a value or a data type to a higher data type. We can assgin the value of any int to a float variable. But if we downcast and assgin a float to a int the data type will not compile correctly. Up-casting String I = (char)c; Down-Casting int i = (float) a; The range for a byte in  java is -128 to 127 This coorisponds with the number of zeros in binary. 
