@@ -1,0 +1,22 @@
+Public class Hero{
+	int healh;
+	int score;
+	int power;
+	int dexterity;
+	int precption;
+	int level;
+	int x;
+	int y;
+	int z;	
+	String Symbol;
+	public static Hero(int a, int b, String c){
+		int x =a;
+		int y = b;
+		Symbol = c;
+	}
+}
+
+
+public static Hero aldo = new Hero;
+aldo.Hero(5,5, player);
+You wouldn't initialize in the hero class if you wanted level ups, different charecters or to change mutiple players. 
